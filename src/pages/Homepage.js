@@ -5,7 +5,7 @@ export default function Homepage() {
     <div>
       <section className="flex flex-col items-center justify-center text-center h-screen">
         <h1 className="uppercase font-bold text-4xl tracking-wide mb-5 md:text-6xl lg:text-8xl">
-          Sankara's Blog
+          Viktorija's Blog
         </h1>
         <button>
           <Link

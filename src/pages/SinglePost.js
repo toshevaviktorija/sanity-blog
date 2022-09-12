@@ -46,7 +46,6 @@ export default function SinglePost() {
               className="blog__image rounded-t"
             />
           )}
-          <p>By Thomas Sankara</p>
 
           <div className="block__content">
             <BlockContent
