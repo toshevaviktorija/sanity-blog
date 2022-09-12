@@ -7,7 +7,7 @@ export default function Header() {
         <div className="logo">
           <Link to="/">
             <h2 className="font-bold text-xl md:text-2xl lg:text-3xl">
-              Sankara's Blog
+              Viktorija's Blog
             </h2>
           </Link>
         </div>
