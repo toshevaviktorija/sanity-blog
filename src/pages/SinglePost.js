@@ -50,7 +50,7 @@ export default function SinglePost() {
           <div className="block__content">
             <BlockContent
               blocks={singlePost.body}
-              projectId="2hp9gld0"
+              projectId="k7asqzwl"
               dataset="production"
             />
           </div>
